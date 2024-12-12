@@ -33,4 +33,4 @@ student 42 network
 
 <a href="https://github.com/ilyas7mah" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyas7mah&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-![snake gif](https://github.com/Ilyas-Mahjoubi/Ilyas-Mahjoubi/blob/output/github-snake.svg)
+![snake gif](https://github.com/Ilyas-Mahjoubi/Ilyas-Mahjoubi/blob/output/github-snake-dark.svg)
