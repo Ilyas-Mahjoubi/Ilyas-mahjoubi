@@ -1,6 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ilyas mahjoubi
 ======================================================================================================================================
 ![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/94f5fde1-1a34-4869-b1fe-9abf7aaeb8db)
+
+![tenor](https://github.com/user-attachments/assets/80dd8cbe-0e0b-43da-b5ed-4307e49a38bb)
+
 student 42 network
 ------------------
 
