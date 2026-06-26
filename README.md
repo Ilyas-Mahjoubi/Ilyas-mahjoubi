@@ -7,7 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 student 42 network
 ------------------
 
-* 🌍  I'm based in Florence
 * ✉️  You can contact me at [mahjoubiilyas62@gmail.com](mailto:mahjoubiilyas62@gmail.com)
 * 🧠  I'm learning c
 * ⚡  I Am Batman Tell Everyone
